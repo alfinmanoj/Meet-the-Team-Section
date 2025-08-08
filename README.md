@@ -10,7 +10,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/alfinmanoj/meet-the-team">
+    <a href="https://github.com/alfinmanoj/Meet-the-Team-Section">
       Solution
     </a>
     <span> | </span>
