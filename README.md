@@ -6,11 +6,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://your-demo-link.netlify.app/">
+    <a href="https://meet-the-team-section-qxkyvom4z-alfin-manojs-projects.vercel.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/your-username/meet-the-team">
+    <a href="https://github.com/alfinmanoj/meet-the-team">
       Solution
     </a>
     <span> | </span>
